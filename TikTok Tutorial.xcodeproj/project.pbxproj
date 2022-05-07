@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AD09547128261EA500A4271D /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD09547028261EA500A4271D /* Home.swift */; };
 		AD09547328261F4300A4271D /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD09547228261F4300A4271D /* Video.swift */; };
+		AD0954752826211400A4271D /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0954742826211400A4271D /* Player.swift */; };
 		AD56E69728243E5A00588D4F /* TikTok_TutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD56E69628243E5A00588D4F /* TikTok_TutorialApp.swift */; };
 		AD56E69928243E5A00588D4F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD56E69828243E5A00588D4F /* ContentView.swift */; };
 		AD56E69B28243E5B00588D4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD56E69A28243E5B00588D4F /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 /* Begin PBXFileReference section */
 		AD09547028261EA500A4271D /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		AD09547228261F4300A4271D /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		AD0954742826211400A4271D /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		AD56E69328243E5A00588D4F /* TikTok Tutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TikTok Tutorial.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD56E69628243E5A00588D4F /* TikTok_TutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TikTok_TutorialApp.swift; sourceTree = "<group>"; };
 		AD56E69828243E5A00588D4F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 			children = (
 				AD56E69828243E5A00588D4F /* ContentView.swift */,
 				AD09547028261EA500A4271D /* Home.swift */,
+				AD0954742826211400A4271D /* Player.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 				AD56E69928243E5A00588D4F /* ContentView.swift in Sources */,
 				AD09547328261F4300A4271D /* Video.swift in Sources */,
 				AD09547128261EA500A4271D /* Home.swift in Sources */,
+				AD0954752826211400A4271D /* Player.swift in Sources */,
 				AD56E69728243E5A00588D4F /* TikTok_TutorialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
