@@ -1,23 +1,11 @@
 //
-//  ContentView.swift
+//  Home.swift
 //  TikTok Tutorial
 //
-//  Created by Oncu Ohancan on 5.05.2022.
+//  Created by Oncu Ohancan on 7.05.2022.
 //
 
 import SwiftUI
-
-struct ContentView: View {
-    var body: some View {
-        Home()
-    }
-}
-
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
-}
 
 struct Home: View {
     
@@ -148,3 +136,4 @@ struct Home: View {
         .edgesIgnoringSafeArea(.all)
         }
 }
+
